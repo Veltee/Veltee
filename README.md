@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Veltee
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning flutter
+- 🌱 I have some skill in Flutter, Java, C#, HTML/CSS, Js, and SQL.
+- Android Studio, VS, VSCode
 - Looking forward to ur positive review!
 
 <!---
